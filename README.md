@@ -48,4 +48,8 @@
   <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
 </div>
 
-![Snake animation](https://github.com/johnpdro/johnpdro/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnpdro/johnpdro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnpdro/johnpdro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnpdro/johnpdro/output/github-contribution-grid-snake.svg">
+</picture>
