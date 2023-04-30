@@ -48,4 +48,4 @@
   <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
 </div>
 
-![Snake animation](https://guithub.com/johnpdro/johnpdro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johnpdro/johnpdro/blob/output/github-contribution-grid-snake.svg)
