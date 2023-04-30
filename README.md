@@ -5,6 +5,8 @@
 - 📚 Atualmente estou estudando JavaScript.
 - 😺 Estou trabalhando na criação de um site para adoção de animais!
 - 🧩 Gosto muito de pixel art, 🎮Jogos,  🐶Animais  e  🎶Música!!!
+<img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
+
 
 ### Minhas redes sociais 💼
 <div> 
