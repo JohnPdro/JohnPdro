@@ -44,7 +44,7 @@
 ### Prinicpais projetos 💻
 
 <div>
+  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=adotapet&theme=radical">
   <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=projeto-login&theme=radical">
-  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=projeto-social&theme=radical">
   <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
 </div>
