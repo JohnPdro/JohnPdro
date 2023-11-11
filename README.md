@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estou estudando JavaScript.
 - 🎯 Crusando Técnico em Informática - Senac Americana
-- 🧩 Gosto de 👾pixel art, 🎮Jogos,  🐶Animais  e  🎶Música!!!
+- 🧩 Gosto de 🎨pixel art, 🎮Jogos,  🐶Animais  e  🎶Música!!!
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332459-9d69d497-fa88-4398-af8e-4400c58203d7.gif">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332449-c834e467-d06b-4fe0-b44a-edb5e4014f7d.gif">
