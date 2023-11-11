@@ -38,8 +38,8 @@
 </div>
 <br>
 <div>
-  <img align="center" alt="John-HTML" height="150"  src="https://github-readme-stats.vercel.app/api?username=johnpdro&show_icons=true&theme=radical">
-  <img align="center" alt="John-HTML" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpdro&layout=compact&theme=radical">
+  <img align="center" alt="John-HTML" height="170"  src="https://github-readme-stats.vercel.app/api?username=johnpdro&show_icons=true&theme=radical">
+  <img align="center" alt="John-HTML" height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpdro&layout=compact&theme=radical">
 </div>
 
 ##
