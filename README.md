@@ -35,7 +35,7 @@
 </div>
 <br>
 <div>
-  <img align="center" alt="John-HTML" height="" width="360em" src="https://github-readme-stats.vercel.app/api?username=johnpdro&show_icons=true&theme=radical">
+  <img align="center" alt="John-HTML" height="" width="320em" src="https://github-readme-stats.vercel.app/api?username=johnpdro&show_icons=true&theme=radical">
   <img align="center" alt="John-HTML" height="" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpdro&layout=compact&theme=radical">
 </div>
 
