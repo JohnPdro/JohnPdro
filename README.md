@@ -6,8 +6,6 @@
 - 🎯 Crusando Técnico em Informática - Senac Americana
 - 🧩 Gosto de 🎨pixel art, 🎮Jogos,  🐶Animais  e  🎶Música!!!
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
-<img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332459-9d69d497-fa88-4398-af8e-4400c58203d7.gif">
-<img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332449-c834e467-d06b-4fe0-b44a-edb5e4014f7d.gif">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://github.com/JohnPdro/JohnPdro/assets/112526011/34894585-5bbc-4526-a1e5-32fe7b7abe26">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://github.com/JohnPdro/JohnPdro/assets/112526011/e9f6d1a9-97ed-4d6c-9a61-92488dd05198">
 
