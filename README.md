@@ -44,8 +44,8 @@
 ### Prinicpais projetos 💻
 
 <div>
-  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=adotapet&theme=radical">
-  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=projeto-login&theme=radical">
-  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
-  <img align="center" alt="John-HTML" height="100" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=php-nutricao&theme=radical">
+  <img align="center" alt="John-HTML" height="170" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=adotapet&theme=radical">
+  <img align="center" alt="John-HTML" height="170" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=projeto-login&theme=radical">
+  <img align="center" alt="John-HTML" height="170" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
+  <img align="center" alt="John-HTML" height="170" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=php-nutricao&theme=radical">
 </div>
