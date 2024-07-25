@@ -3,7 +3,7 @@
 
 
 - 📚 Atualmente estou estudando JavaScript.
-- 🎯 Crusando Técnico em Informática - Senac Americana
+- 🎯 Cursando Jogos Digitais - Fatec Americana
 - 🧩 Gosto de 🎨pixel art, 🎮Jogos,  🐶Animais  e  🎶Música!!!
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://github.com/JohnPdro/JohnPdro/assets/112526011/34894585-5bbc-4526-a1e5-32fe7b7abe26">
