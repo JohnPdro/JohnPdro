@@ -2,7 +2,7 @@
 ### Meu nome é João Pedro, seja bem vindo ao meu perfil🖐😄 
 
 
-- 📚 Atualmente estou estudando Vue3.
+- 📚 Atualmente estou estudando Java, C# e Unity.
 - 🎯 Cursando Jogos Digitais - Fatec Americana
 - 🧩 Hobbies 🎨Pixel art, 🎮Jogos e  🎶Música!!!
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
@@ -13,9 +13,9 @@
 
 ### Minhas redes sociais 💼
 <div> 
-  <a href="https://www.instagram.com/joaopdrofs/" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaopdro.fsilva@gmail.com"><img width="110" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-fernandes-287ba8265/" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/joaopdrofs/" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:joaop.fernans@gmail.com"><img width="100" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-fernandes-287ba8265/" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
@@ -34,18 +34,6 @@
   <img align="center" alt="John-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   <img align="center" alt="John-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
 </div>
-<br>
-<div>
-  <img align="center" alt="John-HTML" height="170"  src="https://github-readme-stats.vercel.app/api?username=johnpdro&show_icons=true&theme=radical">
-  <img align="center" alt="John-HTML" height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpdro&layout=compact&theme=radical">
-</div>
 
-##
-### Prinicpais projetos 💻
 
-<div>
-  <img align="center" alt="John-HTML" height="120" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=adotapet&theme=radical">
-  <img align="center" alt="John-HTML" height="120" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=projeto-login&theme=radical">
-  <img align="center" alt="John-HTML" height="120" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=calculadora&theme=radical">
-  <img align="center" alt="John-HTML" height="120" width="" src="https://github-readme-stats.vercel.app/api/pin/?username=johnpdro&repo=php-nutricao&theme=radical">
-</div>
+
