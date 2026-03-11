@@ -2,9 +2,8 @@
 ### Meu nome é João Pedro, seja bem vindo ao meu perfil🖐😄 
 
 
-- 📚 Atualmente estou estudando Java, C# e Unity.
+- 📚 Atualmente estou estudando Python e SQL.
 - 🎯 Cursando Jogos Digitais - Fatec Americana
-- 🧩 Hobbies 🎨Pixel art, 🎮Jogos e  🎶Música!!!
 <img align="right" alt="John-HTML" height="100" width="100" src="https://user-images.githubusercontent.com/112526011/235332184-a2089121-6d17-4ec2-9369-fdf8ed55339d.gif">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://github.com/JohnPdro/JohnPdro/assets/112526011/34894585-5bbc-4526-a1e5-32fe7b7abe26">
 <img align="right" alt="John-HTML" height="100" width="100" src="https://github.com/JohnPdro/JohnPdro/assets/112526011/e9f6d1a9-97ed-4d6c-9a61-92488dd05198">
