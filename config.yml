@@ -83,4 +83,5 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
+    - "TeX"
   max_display: 8               # Maximum number of languages to show
