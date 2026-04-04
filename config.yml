@@ -1,0 +1,86 @@
+# Your GitHub username (required)
+username: JohnPdro
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "JohnPdro"
+  tagline: "Full Stack Developer & Open Source Explorer"
+  company: ""
+  location: "Brazil"
+  bio: |
+    Software development student focused on building practical projects.
+    Interested in Python, web development, databases, Git/GitHub, and game development with Unity.
+  philosophy: '"Building, breaking, and improving — that is how I learn."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "joaop.fernans@gmail.com"
+  linkedin: "joao-pedrofernandes"
+  website: ""
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "JavaScript"
+      - "TypeScript"
+      - "Vue"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Node.js"
+      - "PostgreSQL"
+  - name: "Game Development"
+    color: "axon_amber"
+    items:
+      - "Unity"
+      - "C#"
+      - "Pixel Art"
+
+# Featured projects shown as constellation stars
+# Each project needs:
+#   repo: "owner/repo-name"   — GitHub repository path
+#   arm: 0-2                  — Which galaxy arm to associate with (index)
+#   description: "..."        — Short description shown on the card
+projects:
+  - repo: "JohnPdro/adotapet"
+    arm: 0
+    description: "A pet adoption platform built with PHP, HTML, CSS, JavaScript, and SQL, designed to connect animals with new homes."
+  - repo: "JohnPdro/Automacao-com-Python"
+    arm: 1
+    description: "A Python automation project for operating system tasks, spreadsheets, PDFs, and user interfaces, using libraries such as PyAutoGUI."
+
+# Theme color overrides (optional — defaults to deep space palette)
+# All values must be valid hex color codes (#RRGGBB)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration — which metrics to show on the telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     # Languages to hide from the telemetry chart
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8               # Maximum number of languages to show
