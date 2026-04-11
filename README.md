@@ -30,6 +30,14 @@
 Focused on learning through real-world projects and continuous improvement.
 Interested in software development, automation, and game development.
 
+## 🎮 Pixel Art
+
+<div align="center">
+  <img src="./assets/pixelart/Sol.jpg" width="120">
+  <img src="./assets/pixelart/Vitrola.jpg" width="120">
+  <img src="./assets/pixelart/DarkBall.jpg" width="120">
+</div>
+
 </details>
 
 <br/>
