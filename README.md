@@ -39,8 +39,9 @@ Interested in software development, automation, and game development.
   <img src="./assets/pixelart/Oriental.jpg" width="120">
   <img src="./assets/pixelart/cachorroRoblox.jpg" width="120">
   <img src="./assets/pixelart/Thunderstorm2.png" width="120">
-  <img src="./assets/pixelart/BasquetePaisagem.jpg" width="120">
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/pixelartteiro/">
